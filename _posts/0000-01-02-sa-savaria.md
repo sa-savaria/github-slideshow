@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Forgiveness is a gift you give yourself.
+>
 Use the left arrow to go back!
